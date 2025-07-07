@@ -25,10 +25,10 @@ Calculated Columns:
 DAX Measures:
   Attrition Rate, Count of Employees
 Visuals Used:
-  Bar charts for Age Group vs Attrition
-  Donut/pie charts for Gender, Job Role, and Department
-  KPI cards showing total attrition, average performance, and total headcount
-  Slicers for filtering by Gender, Education Field, Department, and Job Level
+  Bar charts for Age Group vs Attrition,
+  Donut/pie charts for Gender, Job Role, and Department,
+  KPI cards showing total attrition, average performance, and total headcount,
+  Slicers for filtering by Gender, Education Field, Department, and Job Level,
   Drill-through page for individual employee analysis
 
 ### 🔹 Tableau Dashboard Highlights:
