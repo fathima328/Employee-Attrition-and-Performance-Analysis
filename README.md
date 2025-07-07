@@ -20,11 +20,10 @@ DAX for creating calculated columns and measures.
 
 ### 🔹 Power BI Dashboard Highlights:
 Calculated Columns:
-  Age Group: Categorized employees into bins (e.g., 20–30, 31–40)
-  Tenure Category: Grouped employees based on years at the company
+  Age Group: Categorized employees into bins (e.g., 20–30, 31–40), Tenure Category: Grouped employees based on years at the company
+  
 DAX Measures:
-  Attrition Rate
-  Count of Employees
+  Attrition Rate, Count of Employees
 Visuals Used:
   Bar charts for Age Group vs Attrition
   Donut/pie charts for Gender, Job Role, and Department
