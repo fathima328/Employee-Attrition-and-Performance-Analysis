@@ -26,6 +26,7 @@ Calculated Columns:
 DAX Measures:
   - Attrition Rate
   - Count of Employees
+    
 Visuals Used:
   - Bar charts for Age Group vs Attrition
   - Donut/pie charts for Gender, Job Role, and Department
